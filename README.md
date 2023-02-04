@@ -1,7 +1,7 @@
 # VirtualBox icons for HTML
 The complete VirtualBox icon set taken from [the VirtualBox SVN repo](https://www.virtualbox.org/browser/vbox/trunk/src/VBox/Frontends/VirtualBox/images?rev=80000).
 ## Usage
-See ![](https://cdn.jsdelivr.net/gh/Sid220/cdn@main/vi/file-manager-properties.png) [the documentation](https://vi.vestal.tk/#usage) for usage instructions.
+See ![](https://cdn.jsdelivr.net/gh/Sid220/cdn@main/vi/file-manager-properties.png) [the documentation](https://vi.plios.tech/#usage) for usage instructions.
 ## Downloading
 You can download the icons from ![](https://cdn.jsdelivr.net/gh/Sid220/cdn@main/vi/download-manager.png) [the Vestal CDN](https://github.com/Sid220/cdn/tree/main/vi). The CSS and SCSS files can be found above.
 ## Licensing
