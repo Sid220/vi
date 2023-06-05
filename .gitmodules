@@ -1,0 +1,3 @@
+[submodule "cdn"]
+	path = cdn
+	url = https://github.com/Sid220/cdn.git
